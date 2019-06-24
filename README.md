@@ -1,5 +1,7 @@
 # Tic tac toe - React Native
 
+demo en snack:  https://snack.expo.io/@elysix/anxious-macaroni-and-cheese
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
